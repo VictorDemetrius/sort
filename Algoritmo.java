@@ -7,6 +7,8 @@ public class Algoritmo {
         
         int n []= {7,9,5,6,7,2};
         
+       selectSort(n);
+       insertSort(n);
        bubbleSort(n);
         
       
